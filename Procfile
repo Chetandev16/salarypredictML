@@ -1,0 +1,1 @@
+streamlit run Salary_predict.py
